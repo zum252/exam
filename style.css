@@ -1,0 +1,9 @@
+#userInfo {
+    font-size: 50px;
+    color: darkblue;
+    background-color: lightyellow;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: fit-content;
+}
